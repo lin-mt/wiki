@@ -83,6 +83,7 @@ const config = {
               },
             ]
           },
+          {to: '/blog', label: '博客', position: 'right'},
           {
             href: 'https://github.com/lin-mt/',
             label: 'GitHub',
