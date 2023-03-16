@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\u4e3a\u4ec0\u4e48\u505a Quiet \u9879\u76ee","permalink":"/wiki/blog/\u4e3a\u4ec0\u4e48\u505a Quiet \u9879\u76ee"}]}')}}]);
