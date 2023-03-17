@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lin-mt.github.io/wiki/blog</id>
     <title>lin-mt Blog</title>
-    <updated>2023-03-16T14:51:44.000Z</updated>
+    <updated>2023-03-17T09:40:22.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lin-mt.github.io/wiki/blog"/>
     <subtitle>lin-mt Blog</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[为什么做 Quiet 项目]]></title>
         <id>https://lin-mt.github.io/wiki/blog/为什么做 Quiet 项目</id>
         <link href="https://lin-mt.github.io/wiki/blog/为什么做 Quiet 项目"/>
-        <updated>2023-03-16T14:51:44.000Z</updated>
+        <updated>2023-03-17T09:40:22.000Z</updated>
         <author>
             <name>lin-mt</name>
             <uri>https://github.com/lin-mt</uri>

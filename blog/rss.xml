@@ -4,7 +4,7 @@
         <title>lin-mt Blog</title>
         <link>https://lin-mt.github.io/wiki/blog</link>
         <description>lin-mt Blog</description>
-        <lastBuildDate>Thu, 16 Mar 2023 14:51:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Mar 2023 09:40:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -12,7 +12,7 @@
             <title><![CDATA[为什么做 Quiet 项目]]></title>
             <link>https://lin-mt.github.io/wiki/blog/为什么做 Quiet 项目</link>
             <guid>https://lin-mt.github.io/wiki/blog/为什么做 Quiet 项目</guid>
-            <pubDate>Thu, 16 Mar 2023 14:51:44 GMT</pubDate>
+            <pubDate>Fri, 17 Mar 2023 09:40:22 GMT</pubDate>
             <category>quiet</category>
         </item>
     </channel>
