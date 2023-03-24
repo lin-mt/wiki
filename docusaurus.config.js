@@ -59,7 +59,7 @@ const config = {
   ],
 
   themeConfig:
-    /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
+  /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
@@ -72,21 +72,32 @@ const config = {
         items: [
           {
             position: 'left',
-            label: 'Quiet',
+            label: '🤫 Quiet',
             items: [
               {
                 type: 'docSidebar',
                 sidebarId: 'quietDocument',
-                label: '文档',
+                label: '📄 文档',
               },
               {
                 type: 'docSidebar',
                 sidebarId: 'quietPlugins',
-                label: '插件',
+                label: '🧰 插件',
               },
             ]
           },
-          {to: '/blog', label: '博客', position: 'right'},
+          {
+            label: '🔧 解决方案',
+            position: 'right',
+            items: [
+              {
+                type: 'docSidebar',
+                sidebarId: 'solutionQuiet',
+                label: '🤫 Quiet'
+              }
+            ]
+          },
+          {to: '/blog', label: '📕博客', position: 'right'},
           {
             href: 'https://github.com/lin-mt/',
             label: 'GitHub',
@@ -101,6 +112,7 @@ const config = {
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
+        additionalLanguages: ["kotlin", "java", "scala"],
       },
     }),
 };
