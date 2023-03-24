@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([[121],{8070:i=>{i.exports=JSON.parse('[{"label":"Dubbo","permalink":"/wiki/docs/tags/dubbo","count":1},{"label":"Spring Security","permalink":"/wiki/docs/tags/spring-security","count":1},{"label":"Spring Security Oauth2","permalink":"/wiki/docs/tags/spring-security-oauth-2","count":1}]')}}]);
