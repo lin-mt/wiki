@@ -117,22 +117,9 @@ const config = {
       algolia: {
         // The application ID provided by Algolia
         appId: 'SM4ZQXO5BK',
-
         // Public API key: it is safe to commit it
         apiKey: 'de5cb8611d8c6a0eecb50a6e635a7290',
-
         indexName: 'linmtwiki',
-
-        // Optional: see doc section below
-        contextualSearch: true,
-
-        // Optional: Algolia search parameters
-        searchParameters: {},
-
-        // Optional: path for search page that enabled by default (`false` to disable it)
-        searchPagePath: 'search',
-
-        //... other Algolia params
       },
     }),
 
